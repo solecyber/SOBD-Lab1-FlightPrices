@@ -1,0 +1,7 @@
+*.csv
+*.parquet
+*.zip
+.ipynb_checkpoints/
+spark-warehouse/
+__pycache__/
+.DS_Store
